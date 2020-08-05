@@ -1,0 +1,10 @@
+import React from 'react';
+function AppSuper(props){
+  return(
+    <div >  
+     AppSuper works
+    </div> 
+  )
+}
+
+export default AppSuper
